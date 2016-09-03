@@ -1,6 +1,6 @@
 {
   "name": "wysknd-log",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wrapper library that exposes methods for easy logger initialization and management",
   "main": "lib/index.js",
   "scripts": {
